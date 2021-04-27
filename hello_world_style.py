@@ -4,7 +4,7 @@
 # This program displays "Hello, World!" and follows correct python style.
 
 def main():
-    print("Hello, World!")
+    print("Hello, World! With Style")
 
 
 if __name__ == "__main__":
